@@ -70,7 +70,8 @@ Ex: db.school_collection.insert( [  {
 	7. Go to location where POM is placed through the terminal 
 	   and run the Maven command 'mvn clean install'
 	8. Deploy the 'war' file created at 
-	   './CingleVueWebApplication/target/CingleVueWebApplication-0.0.1-SNAPSHOT.war' into Apache Tomcat AS.
+	   './CingleVueWebApplication/target/CingleVueWebApplication-0.0.1-SNAPSHOT.war' 
+	   into Apache Tomcat AS.
 	9. Now you can access the web application using URL 
 	   'http://localhost:8080/CingleVueWebApplication/' using a browser
 	
